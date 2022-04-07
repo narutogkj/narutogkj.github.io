@@ -1,0 +1,6 @@
+{
+	"appId": "com.waronmars.app",
+	"appName": "War on Mars",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}

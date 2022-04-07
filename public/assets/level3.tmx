@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.5" tiledversion="1.7.2" orientation="orthogonal" renderorder="right-down" width="14" height="7" tilewidth="25" tileheight="25" infinite="1" nextlayerid="3" nextobjectid="89">
+ <editorsettings>
+  <export target="level3.json" format="json"/>
+ </editorsettings>
+ <tileset firstgid="1" name="level0Tileset" tilewidth="25" tileheight="25" tilecount="1" columns="1">
+  <image source="rock1.png" width="25" height="25"/>
+ </tileset>
+ <layer id="1" name="Platforms" width="14" height="7">
+  <data encoding="base64"/>
+ </layer>
+ <objectgroup id="2" name="Spikes">
+  <object id="41" gid="1" x="150" y="125" width="25" height="25"/>
+  <object id="42" gid="1" x="125" y="125" width="25" height="25"/>
+  <object id="43" gid="1" x="100" y="125" width="25" height="25"/>
+  <object id="44" gid="1" x="75" y="125" width="25" height="25"/>
+  <object id="45" gid="1" x="50" y="125" width="25" height="25"/>
+  <object id="46" gid="1" x="25" y="125" width="25" height="25"/>
+  <object id="47" gid="1" x="0" y="125" width="25" height="25"/>
+  <object id="48" gid="1" x="100" y="275" width="25" height="25"/>
+  <object id="49" gid="1" x="125" y="275" width="25" height="25"/>
+  <object id="50" gid="1" x="150" y="275" width="25" height="25"/>
+  <object id="51" gid="1" x="175" y="275" width="25" height="25"/>
+  <object id="52" gid="1" x="200" y="275" width="25" height="25"/>
+  <object id="53" gid="1" x="225" y="275" width="25" height="25"/>
+  <object id="54" gid="1" x="250" y="275" width="25" height="25"/>
+  <object id="55" gid="1" x="275" y="275" width="25" height="25"/>
+  <object id="56" gid="1" x="275" y="250" width="25" height="25"/>
+  <object id="57" gid="1" x="275" y="225" width="25" height="25"/>
+  <object id="58" gid="1" x="275" y="200" width="25" height="25"/>
+  <object id="64" gid="1" x="275" y="175" width="25" height="25"/>
+  <object id="65" gid="1" x="275" y="150" width="25" height="25"/>
+  <object id="66" gid="1" x="275" y="125" width="25" height="25"/>
+  <object id="68" gid="1" x="275.5" y="-0.5" width="25" height="25" visible="0"/>
+  <object id="73" gid="1" x="0" y="400" width="25" height="25"/>
+  <object id="74" gid="1" x="25" y="400" width="25" height="25"/>
+  <object id="75" gid="1" x="50" y="400" width="25" height="25"/>
+  <object id="76" gid="1" x="75" y="400" width="25" height="25"/>
+  <object id="77" gid="1" x="100" y="400" width="25" height="25"/>
+  <object id="80" gid="1" x="225" y="525" width="25" height="25"/>
+  <object id="81" gid="1" x="225" y="500" width="25" height="25"/>
+  <object id="82" gid="1" x="225" y="475" width="25" height="25"/>
+  <object id="83" gid="1" x="250" y="475" width="25" height="25"/>
+  <object id="84" gid="1" x="275" y="475" width="25" height="25"/>
+  <object id="85" gid="1" x="300.5" y="475" width="25" height="25"/>
+  <object id="86" gid="1" x="325" y="475" width="25" height="25"/>
+  <object id="87" gid="1" x="350" y="475" width="25" height="25"/>
+  <object id="88" gid="1" x="375" y="475" width="25" height="25"/>
+ </objectgroup>
+</map>

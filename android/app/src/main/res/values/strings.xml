@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">War on Mars</string>
+    <string name="title_activity_main">War on Mars</string>
+    <string name="package_name">com.waronmars.app</string>
+    <string name="custom_url_scheme">com.waronmars.app</string>
+</resources>
